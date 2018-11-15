@@ -37,7 +37,7 @@ public class HomeDelegate {
 			///
 			//here is the code for displaying the options on website
 			//
-			String filePath = "/Users/DatMoneyNumeroDos/Documents/Revature/1810_oct8_jta/projects/Project1_ERS/src/main/webapp/html/user/userIndex.html";
+			String filePath = "src/main/webapp/html/user/userIndex.html";
 			
 			BufferedReader in = new BufferedReader(new FileReader (filePath));
 			String temp = in.readLine();
