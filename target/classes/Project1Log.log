@@ -1,0 +1,616 @@
+2018-11-02 15:32:03 INFO  EmployeeDaoImpl:52 - Employee [ID=5000004, firstname=Dat, lastname=Nguyen, username=newPowerUser, email=onething@something.com, address=herndon, title=Employee, isEmployed=True] is added to the database
+2018-11-05 18:45:56 ERROR EmployeeDaoImpl:124 - java.sql.SQLException: ResultSet.next was not called
+2018-11-05 18:47:18 ERROR EmployeeDaoImpl:125 - java.sql.SQLException: ResultSet.next was not called
+2018-11-07 01:49:29 INFO  EmployeeDaoImpl:106 - poweruser failed to login
+2018-11-07 01:51:45 INFO  EmployeeDaoImpl:106 - poweruser failed to login
+2018-11-07 01:52:29 INFO  EmployeeDaoImpl:102 - superuser logged in
+2018-11-07 01:57:42 INFO  EmployeeDaoImpl:106 - superuse failed to login
+2018-11-07 02:00:06 INFO  EmployeeDaoImpl:106 - poweruser failed to login
+2018-11-07 02:00:41 INFO  EmployeeDaoImpl:102 - superuser logged in
+2018-11-07 02:01:56 INFO  EmployeeDaoImpl:102 - superuser logged in
+2018-11-07 02:12:54 INFO  EmployeeDaoImpl:107 - superuser logged in
+2018-11-07 02:16:04 INFO  EmployeeDaoImpl:129 - poweruser failed to login
+2018-11-07 02:16:09 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 10:35:36 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 10:35:36 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 10:35:36 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 10:35:36 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 10:35:37 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 10:35:38 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 10:35:39 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 10:35:39 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 10:36:13 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 10:36:13 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 10:47:52 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 10:47:52 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 10:50:20 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 10:50:21 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 10:51:20 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 10:51:20 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 13:44:27 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 13:44:27 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 13:47:35 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:32:32 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:32:32 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:33:58 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:35:10 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:35:42 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:38:00 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:38:57 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:40:29 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:41:38 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:42:08 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:43:56 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:45:36 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:46:09 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:47:13 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 15:58:21 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 16:04:21 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 16:29:34 INFO  EmployeeDaoImpl:129 - poweruser failed to login
+2018-11-07 16:29:40 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:07:43 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:08:53 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:10:29 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:15:14 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:18:16 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:20:58 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:22:17 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:26:11 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:27:34 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:32:37 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:33:23 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:34:00 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:34:00 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:34:33 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:35:18 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:35:27 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 17:37:09 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 18:10:38 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 18:26:28 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 18:29:10 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 18:33:07 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 18:37:57 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 18:38:25 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 18:40:47 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 18:42:04 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 18:44:28 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 18:47:59 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 18:50:35 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 18:51:49 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 18:52:16 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 18:53:42 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 19:01:28 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 19:01:58 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 19:01:59 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 19:02:02 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 19:03:39 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 19:03:41 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 19:03:44 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 19:04:24 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 19:05:59 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 19:09:15 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 19:10:37 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 19:12:04 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 19:14:19 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 19:16:53 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 19:17:34 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 19:18:09 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 19:18:47 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 19:19:15 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 19:43:48 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:08:54 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-07 20:09:59 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-07 20:11:54 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-07 20:12:46 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-07 20:13:28 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 20:13:35 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 20:13:38 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 20:16:33 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-07 20:17:21 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-07 20:19:30 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-07 20:22:25 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:22:47 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:23:19 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:24:12 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:33:48 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:34:59 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:34:59 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:47:27 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:47:55 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:48:42 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:51:27 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:51:27 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:51:27 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:51:27 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 20:54:16 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 21:10:14 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 21:10:41 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 21:14:22 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 21:17:01 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 21:17:28 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 21:19:03 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 21:19:52 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-07 21:22:57 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 08:56:57 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-08 08:57:31 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-08 08:58:10 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-08 08:59:32 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-08 09:00:14 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-08 09:00:38 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-08 09:02:49 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-08 09:05:03 INFO  EmployeeDaoImpl:129 - newsuperuser failed to login
+2018-11-08 09:05:18 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-08 09:06:10 INFO  EmployeeDaoImpl:125 - newpoweruser logged in
+2018-11-08 10:55:37 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-08 10:55:40 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-08 10:55:41 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-08 11:21:32 INFO  EmployeeDaoImpl:129 - emp1 failed to login
+2018-11-08 11:21:40 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-08 11:22:11 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-08 11:22:45 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-08 11:23:33 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-08 11:23:59 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-08 11:25:18 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-08 13:16:02 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:31:24 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:32:37 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:34:56 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:35:49 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:35:58 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:36:39 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:37:46 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:39:07 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:39:37 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:39:53 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-08 13:41:58 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:48:29 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:48:56 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:56:26 INFO  EmployeeDaoImpl:129 - superuser failed to login
+2018-11-08 13:56:32 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:57:45 INFO  EmployeeDaoImpl:129 - superpuser failed to login
+2018-11-08 13:57:53 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:58:27 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 13:59:13 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 15:32:30 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 15:40:54 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 16:12:17 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 16:12:41 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 16:13:12 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 16:13:33 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 16:14:03 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 16:20:23 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 16:21:39 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 16:26:33 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 16:29:42 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 16:35:51 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 16:37:50 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 16:40:40 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 16:42:43 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 17:40:25 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 17:49:49 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 17:50:07 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 17:50:17 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 18:21:13 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 18:22:39 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 18:50:18 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 18:50:18 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 18:50:18 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-08 21:30:47 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-09 08:57:52 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-09 11:49:38 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-09 11:58:02 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-09 13:21:13 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:21:13 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:23:38 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:23:38 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:23:38 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:23:38 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:23:38 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:23:38 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:26:20 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:29:22 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:29:22 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:29:22 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:29:22 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:29:22 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:29:25 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:29:26 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:29:28 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:19 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:19 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:19 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:19 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:20 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:20 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:20 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:20 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:20 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:20 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:20 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:20 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:20 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:20 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:20 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:20 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:21 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:21 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:21 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:21 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:21 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:21 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:21 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:44 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:44 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:44 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:45 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:46 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:46 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:46 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:46 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:46 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:46 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:47 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:47 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:47 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:47 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:47 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:47 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:48 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:48 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:48 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:48 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:48 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:48 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:49 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:49 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:49 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 13:30:49 INFO  EmployeeDaoImpl:129 -  failed to login
+2018-11-09 14:22:34 INFO  EmployeeDaoImpl:129 - superuse failed to login
+2018-11-09 14:22:34 INFO  EmployeeDaoImpl:129 - superuse failed to login
+2018-11-09 14:22:34 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-09 14:35:31 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-09 14:58:42 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-09 15:48:58 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-09 16:38:14 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-09 16:44:05 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-09 16:44:06 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-09 16:44:42 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-09 16:44:43 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-10 17:25:34 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-10 17:55:08 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-10 18:18:36 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-10 20:15:57 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-10 20:40:15 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-10 20:48:59 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 07:50:05 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 08:52:33 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 08:57:54 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 09:05:25 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 09:12:55 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 13:10:09 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 13:10:27 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 13:10:51 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 13:10:53 INFO  RequestDaoImpl:140 - All unapproved reimbursement requested
+2018-11-11 13:12:08 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 13:12:10 INFO  RequestDaoImpl:140 - All unapproved reimbursement requested
+2018-11-11 13:12:32 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 13:12:34 INFO  RequestDaoImpl:140 - All unapproved reimbursement requested
+2018-11-11 13:22:18 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 13:22:20 INFO  RequestDaoImpl:140 - All unapproved reimbursement requested
+2018-11-11 13:26:01 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 13:26:02 INFO  RequestDaoImpl:140 - All unapproved reimbursement requested
+2018-11-11 13:27:52 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 13:40:10 INFO  EmployeeDaoImpl:129 - emp4 failed to login
+2018-11-11 13:40:23 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 13:40:54 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 16:11:17 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 16:11:20 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 16:20:30 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 16:26:59 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 17:49:20 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 17:52:29 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 17:53:18 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 17:56:55 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 18:31:54 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 18:53:07 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 19:08:48 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 19:48:50 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 21:36:58 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 21:54:16 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 22:08:12 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 22:08:54 ERROR RequestDaoImpl:52 - java.sql.SQLException: ORA-06576: not a valid function or procedure name
+
+2018-11-11 22:10:03 ERROR RequestDaoImpl:52 - java.sql.SQLIntegrityConstraintViolationException: ORA-02291: integrity constraint (PROJECT1_ERS.MANAGER_ID) violated - parent key not found
+ORA-06512: at "PROJECT1_ERS.ADD_NEW_TRANSACTION", line 8
+
+2018-11-11 22:12:44 ERROR RequestDaoImpl:52 - java.sql.SQLIntegrityConstraintViolationException: ORA-02291: integrity constraint (PROJECT1_ERS.MANAGER_ID) violated - parent key not found
+ORA-06512: at "PROJECT1_ERS.ADD_NEW_TRANSACTION", line 8
+
+java.sql.SQLIntegrityConstraintViolationException: ORA-02291: integrity constraint (PROJECT1_ERS.MANAGER_ID) violated - parent key not found
+ORA-06512: at "PROJECT1_ERS.ADD_NEW_TRANSACTION", line 8
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:450)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:399)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1017)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:655)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:249)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:566)
+	at oracle.jdbc.driver.T4CCallableStatement.doOall8(T4CCallableStatement.java:210)
+	at oracle.jdbc.driver.T4CCallableStatement.doOall8(T4CCallableStatement.java:53)
+	at oracle.jdbc.driver.T4CCallableStatement.executeForRows(T4CCallableStatement.java:938)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1075)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3820)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OracleCallableStatement.executeUpdate(OracleCallableStatement.java:5647)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.dao.RequestDaoImpl.addNewRequest(RequestDaoImpl.java:45)
+	at com.revature.service.EmployeeService.createNewRequest(EmployeeService.java:33)
+	at com.revature.delegate.InfoDelegate.addNewRequest(InfoDelegate.java:62)
+	at com.revature.controller.RequestHelper.process(RequestHelper.java:46)
+	at com.revature.controller.FrontController.doGet(FrontController.java:82)
+	at com.revature.controller.FrontController.doPost(FrontController.java:89)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:770)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2018-11-11 22:19:00 ERROR RequestDaoImpl:52 - java.sql.SQLTransactionRollbackException: ORA-02091: transaction rolled back
+ORA-02291: integrity constraint (PROJECT1_ERS.MANAGER_ID) violated - parent key not found
+ORA-06512: at "PROJECT1_ERS.ADD_NEW_TRANSACTION", line 18
+
+java.sql.SQLTransactionRollbackException: ORA-02091: transaction rolled back
+ORA-02291: integrity constraint (PROJECT1_ERS.MANAGER_ID) violated - parent key not found
+ORA-06512: at "PROJECT1_ERS.ADD_NEW_TRANSACTION", line 18
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:450)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:399)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1017)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:655)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:249)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:566)
+	at oracle.jdbc.driver.T4CCallableStatement.doOall8(T4CCallableStatement.java:210)
+	at oracle.jdbc.driver.T4CCallableStatement.doOall8(T4CCallableStatement.java:53)
+	at oracle.jdbc.driver.T4CCallableStatement.executeForRows(T4CCallableStatement.java:938)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1075)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3820)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OracleCallableStatement.executeUpdate(OracleCallableStatement.java:5647)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.dao.RequestDaoImpl.addNewRequest(RequestDaoImpl.java:45)
+	at com.revature.service.EmployeeService.createNewRequest(EmployeeService.java:33)
+	at com.revature.delegate.InfoDelegate.addNewRequest(InfoDelegate.java:62)
+	at com.revature.controller.RequestHelper.process(RequestHelper.java:46)
+	at com.revature.controller.FrontController.doGet(FrontController.java:82)
+	at com.revature.controller.FrontController.doPost(FrontController.java:89)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:668)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:770)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2018-11-11 22:51:23 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 22:51:42 INFO  RequestDaoImpl:49 - Request [ID=0, timeStamp=null, approvalStatus=pending, ManagerID=null, EmployeeID=5000007] added
+2018-11-11 22:59:28 INFO  RequestDaoImpl:48 - Request [ID=0, approvalStatus=pending, ManagerID=null, EmployeeID=5000007] added
+2018-11-11 23:00:11 INFO  RequestDaoImpl:49 - Request [ID=0, approvalStatus=pending, ManagerID=null, EmployeeID=5000007] added
+2018-11-11 23:01:32 ERROR RequestDaoImpl:49 - java.sql.SQLException: Numeric Overflow
+2018-11-11 23:03:27 ERROR RequestDaoImpl:49 - java.sql.SQLException: Numeric Overflow
+2018-11-11 23:05:10 INFO  RequestDaoImpl:46 - Request [ID=8000000006, approvalStatus=pending, ManagerID=null, EmployeeID=5000007] added
+2018-11-11 23:05:10 INFO  RequestDaoImpl:46 - Request [ID=8000000005, approvalStatus=pending, ManagerID=null, EmployeeID=5000007] added
+2018-11-11 23:05:36 INFO  RequestDaoImpl:46 - Request [ID=8000000007, approvalStatus=pending, ManagerID=null, EmployeeID=5000007] added
+2018-11-11 23:06:19 INFO  RequestDaoImpl:46 - Request [ID=8000000008, approvalStatus=pending, ManagerID=null, EmployeeID=5000007] added
+2018-11-11 23:44:20 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 23:44:46 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 23:44:47 ERROR RequestDaoImpl:139 - java.sql.SQLException: Numeric Overflow
+2018-11-11 23:44:48 ERROR RequestDaoImpl:139 - java.sql.SQLException: Numeric Overflow
+2018-11-11 23:46:48 ERROR RequestDaoImpl:139 - java.sql.SQLException: Invalid column index
+2018-11-11 23:46:48 ERROR RequestDaoImpl:139 - java.sql.SQLException: Invalid column index
+2018-11-11 23:47:29 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-11 23:55:31 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-11 23:56:42 INFO  RequestDaoImpl:46 - Request [ID=8000000009, approvalStatus=pending, ManagerID=null, EmployeeID=5000007, Reasoning=Office Furniture] added
+2018-11-11 23:57:32 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-11 23:57:33 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-11 23:59:51 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:20:58 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-12 00:20:59 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:21:00 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:21:34 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:21:57 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:23:12 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:23:15 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:25:16 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:25:17 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:25:39 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:25:55 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:31:15 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:31:16 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:31:30 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:35:55 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:36:26 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:38:07 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:38:33 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:38:51 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:39:56 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:40:42 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:42:53 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:43:27 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:44:02 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:44:44 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 00:48:03 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 02:57:02 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-12 02:57:05 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 02:57:06 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 02:58:14 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 02:58:29 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 02:58:50 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 02:59:54 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 03:00:08 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 03:07:35 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:30:14 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-12 04:30:15 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:30:17 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:30:23 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:31:20 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:33:10 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:43:23 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:43:26 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:43:28 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:44:29 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:47:17 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:48:34 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:49:11 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:49:12 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:50:37 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 04:58:15 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 05:17:53 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-12 05:17:53 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-12 05:17:54 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 05:19:48 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 05:21:27 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 05:34:08 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 05:37:51 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 05:38:09 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 05:38:29 INFO  RequestDaoImpl:137 - All unapproved reimbursement requested
+2018-11-12 05:39:02 ERROR RequestDaoImpl:183 - java.sql.SQLSyntaxErrorException: ORA-00904: "E_ID": invalid identifier
+
+2018-11-12 05:53:27 INFO  RequestDaoImpl:139 - All unapproved reimbursement requested
+2018-11-12 05:55:13 INFO  RequestDaoImpl:139 - All unapproved reimbursement requested
+2018-11-12 05:55:18 INFO  RequestDaoImpl:114 - Transaction 8000000001 is denied by manager 5000000
+2018-11-12 05:56:51 INFO  RequestDaoImpl:139 - All unapproved reimbursement requested
+2018-11-12 05:57:20 INFO  RequestDaoImpl:139 - All unapproved reimbursement requested
+2018-11-12 05:59:45 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-12 05:59:47 INFO  RequestDaoImpl:139 - All unapproved reimbursement requested
+2018-11-12 05:59:55 INFO  RequestDaoImpl:114 - Transaction 8000000002 is approved by manager 5000000
+2018-11-12 05:59:58 INFO  RequestDaoImpl:139 - All unapproved reimbursement requested
+2018-11-12 06:00:10 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-12 06:11:55 ERROR RequestDaoImpl:185 - java.sql.SQLSyntaxErrorException: ORA-00904: "E_ID": invalid identifier
+
+2018-11-12 06:12:33 ERROR RequestDaoImpl:185 - java.sql.SQLSyntaxErrorException: ORA-00904: "E_ID": invalid identifier
+
+2018-11-12 06:13:14 ERROR RequestDaoImpl:185 - java.sql.SQLSyntaxErrorException: ORA-00904: "E_ID": invalid identifier
+
+2018-11-12 06:14:46 ERROR RequestDaoImpl:185 - java.sql.SQLSyntaxErrorException: ORA-00904: "E_ID": invalid identifier
+
+2018-11-12 06:15:32 ERROR RequestDaoImpl:185 - java.sql.SQLSyntaxErrorException: ORA-00904: "E_ID": invalid identifier
+
+2018-11-12 06:16:18 ERROR RequestDaoImpl:185 - java.sql.SQLSyntaxErrorException: ORA-00904: "E_ID": invalid identifier
+
+2018-11-12 06:23:09 ERROR RequestDaoImpl:97 - java.sql.SQLSyntaxErrorException: ORA-00979: not a GROUP BY expression
+
+2018-11-12 06:24:36 ERROR RequestDaoImpl:99 - java.sql.SQLSyntaxErrorException: ORA-00979: not a GROUP BY expression
+
+2018-11-12 06:26:38 ERROR RequestDaoImpl:99 - java.sql.SQLSyntaxErrorException: ORA-00933: SQL command not properly ended
+
+2018-11-12 06:32:14 ERROR RequestDaoImpl:99 - java.sql.SQLSyntaxErrorException: ORA-00979: not a GROUP BY expression
+
+2018-11-12 06:32:14 ERROR RequestDaoImpl:99 - java.sql.SQLSyntaxErrorException: ORA-00979: not a GROUP BY expression
+
+2018-11-12 06:34:43 ERROR RequestDaoImpl:99 - java.sql.SQLSyntaxErrorException: ORA-00979: not a GROUP BY expression
+
+2018-11-12 06:35:57 ERROR RequestDaoImpl:99 - java.sql.SQLException: Numeric Overflow
+2018-11-12 06:36:33 INFO  RequestDaoImpl:97 - Requests for employee 5000007 accessed
+2018-11-12 06:40:08 INFO  RequestDaoImpl:97 - Requests for employee 5000007 accessed
+2018-11-12 06:40:32 INFO  RequestDaoImpl:97 - Requests for employee 5000007 accessed
+2018-11-12 06:40:47 INFO  RequestDaoImpl:97 - Requests for employee 5000007 accessed
+2018-11-12 06:41:03 INFO  RequestDaoImpl:97 - Requests for employee 5000007 accessed
+2018-11-12 06:41:16 INFO  RequestDaoImpl:97 - Requests for employee 5000007 accessed
+2018-11-12 07:24:01 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-12 07:24:03 INFO  RequestDaoImpl:97 - Requests for employee 5000007 accessed
+2018-11-12 07:24:17 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-12 07:24:18 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 07:24:25 INFO  EmployeeDaoImpl:125 - emp3 logged in
+2018-11-12 07:24:26 INFO  RequestDaoImpl:97 - Requests for employee 5000006 accessed
+2018-11-12 07:24:55 INFO  RequestDaoImpl:46 - Request [ID=8000000010, approvalStatus=pending, ManagerID=null, EmployeeID=5000006, Reasoning=Enthuware] added
+2018-11-12 07:25:02 INFO  RequestDaoImpl:97 - Requests for employee 5000006 accessed
+2018-11-12 07:25:09 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-12 07:25:10 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 08:46:18 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-12 08:46:19 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 08:49:13 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 08:49:46 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 08:49:59 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 08:50:11 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 08:50:24 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 08:50:24 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 08:52:29 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 08:52:50 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 08:52:51 INFO  EmployeeDaoImpl:175 - Retrieving all employee info
+2018-11-12 08:52:52 INFO  EmployeeDaoImpl:175 - Retrieving all employee info
+2018-11-12 08:53:06 INFO  EmployeeDaoImpl:175 - Retrieving all employee info
+2018-11-12 08:53:07 INFO  EmployeeDaoImpl:175 - Retrieving all employee info
+2018-11-12 08:53:09 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 08:53:09 INFO  EmployeeDaoImpl:175 - Retrieving all employee info
+2018-11-12 08:53:10 INFO  EmployeeDaoImpl:175 - Retrieving all employee info
+2018-11-12 08:55:29 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 08:55:29 INFO  EmployeeDaoImpl:175 - Retrieving all employee info
+2018-11-12 08:57:06 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 08:57:06 INFO  EmployeeDaoImpl:175 - Retrieving all employee info
+2018-11-12 09:06:54 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 09:13:05 INFO  EmployeeDaoImpl:125 - emp3 logged in
+2018-11-12 09:13:06 INFO  RequestDaoImpl:97 - Requests for employee 5000006 accessed
+2018-11-12 09:45:21 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-12 09:45:21 INFO  EmployeeDaoImpl:125 - emp4 logged in
+2018-11-12 09:45:22 INFO  RequestDaoImpl:97 - Requests for employee 5000007 accessed
+2018-11-12 09:46:28 INFO  RequestDaoImpl:46 - Request [ID=8000000011, approvalStatus=pending, ManagerID=null, EmployeeID=5000007, Reasoning=uber trip] added
+2018-11-12 09:46:44 INFO  RequestDaoImpl:97 - Requests for employee 5000007 accessed
+2018-11-12 09:47:27 INFO  EmployeeDaoImpl:129 - emp1 failed to login
+2018-11-12 09:47:33 INFO  EmployeeDaoImpl:129 - emp1 failed to login
+2018-11-12 09:47:41 INFO  EmployeeDaoImpl:125 - superuser logged in
+2018-11-12 09:47:42 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 09:48:25 INFO  RequestDaoImpl:116 - Transaction 8000000011 is approved by manager 5000000
+2018-11-12 09:48:34 INFO  RequestDaoImpl:141 - All unapproved reimbursement requested
+2018-11-12 09:48:42 INFO  RequestDaoImpl:97 - Requests for employee 5000007 accessed
+2018-11-12 09:48:56 INFO  EmployeeDaoImpl:175 - Retrieving all employee info
