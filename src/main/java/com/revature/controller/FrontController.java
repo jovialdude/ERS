@@ -60,8 +60,8 @@ public class FrontController extends HttpServlet {
 			resp.addHeader("Content-Type", "text/html");
 			
 			String fileName = req.getRequestURI().substring(req.getContextPath().length());
-			String filePath = "/Users/DatMoneyNumeroDos/Documents/Revature/1810_oct8_jta/projects/Project1_ERS/src/main/webapp";
-			
+			String filePath = "src/main/webapp";
+
 			while(fileName.indexOf("/")>0) {
 				fileName = fileName.substring(fileName.indexOf("/")+1);
 			}
