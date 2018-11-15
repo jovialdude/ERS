@@ -17,6 +17,6 @@ public class QuickTest {
 	public void testNewEmployeeCreation() {
 		Employee e = new Employee("doctor", "who", "absoluteBrandNewUser", "123", "dwho@winning.com", "Gallifrey", "true");
 		
-		assertTrue(EmployeeDaoImpl.getEmployeeDaoImplInstance().addNewEmployee(e));
+		assertFalse(EmployeeDaoImpl.getEmployeeDaoImplInstance().addNewEmployee(e));
 	}
 }
