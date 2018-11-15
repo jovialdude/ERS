@@ -1,6 +1,6 @@
 package com.revature.test;
 
-import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.assertFalse;
 
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
