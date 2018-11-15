@@ -20,7 +20,7 @@ public class HomeDelegate {
 		Manager manager = null;
 		if (session.getAttribute("user") instanceof Manager) {
 			manager = (Manager)session.getAttribute("user");
-			String filePath = "/Users/DatMoneyNumeroDos/Documents/Revature/1810_oct8_jta/projects/Project1_ERS/src/main/webapp/html/manager/managerIndex.html";
+			String filePath = "src/main/webapp";
 			
 			BufferedReader in = new BufferedReader(new FileReader (filePath));
 			
