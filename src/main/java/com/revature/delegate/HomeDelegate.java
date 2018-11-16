@@ -20,8 +20,8 @@ public class HomeDelegate {
 		Manager manager = null;
 		if (session.getAttribute("user") instanceof Manager) {
 			manager = (Manager)session.getAttribute("user");
-			String filePath = "src/main/webapp";
-			
+			String filePath = "/home/ec2-user/.jenkins/workspace/Project1_ERS/src/main/webapp/manager/managerIndex.html";
+
 			BufferedReader in = new BufferedReader(new FileReader (filePath));
 			
 			String temp = in.readLine();
@@ -37,7 +37,7 @@ public class HomeDelegate {
 			///
 			//here is the code for displaying the options on website
 			//
-			String filePath = "src/main/webapp/html/user/userIndex.html";
+			String filePath = "/home/ec2-user/.jenkins/workspace/Project1_ERS/src/main/webapp/html/user/userIndex.html";
 			
 			BufferedReader in = new BufferedReader(new FileReader (filePath));
 			String temp = in.readLine();
