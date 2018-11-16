@@ -36,10 +36,10 @@ public class FrontController extends HttpServlet {
 			resp.addHeader("Content-Type", "text/html");
 			
 			String fileName = req.getRequestURI().substring(req.getContextPath().length());
-			//String filePath = "src/main/webapp";
+			String filePath = "/home/ec2-user/.jenkins/workspace/Project1_ERS/src/main/webapp";
 			//System.out.println( System.getProperty("user.dir"));
 
-                        resp.getWriter().write( System.getProperty("user.dir"));
+                        //resp.getWriter().write( System.getProperty("user.dir"));
 			while(fileName.indexOf("/")>0) {
 				fileName = fileName.substring(fileName.indexOf("/")+1);
 			}
