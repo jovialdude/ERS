@@ -37,7 +37,8 @@ public class FrontController extends HttpServlet {
 			
 			String fileName = req.getRequestURI().substring(req.getContextPath().length());
 			//String filePath = "src/main/webapp";
-			
+			System.out.println( System.getProperty("user.dir"));
+
 			while(fileName.indexOf("/")>0) {
 				fileName = fileName.substring(fileName.indexOf("/")+1);
 			}
