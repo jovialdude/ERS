@@ -36,7 +36,7 @@ public class FrontController extends HttpServlet {
 			resp.addHeader("Content-Type", "text/html");
 			
 			String fileName = req.getRequestURI().substring(req.getContextPath().length());
-			String filePath = "src/main/webapp";
+			//String filePath = "src/main/webapp";
 			
 			while(fileName.indexOf("/")>0) {
 				fileName = fileName.substring(fileName.indexOf("/")+1);
@@ -46,7 +46,7 @@ public class FrontController extends HttpServlet {
 			if (fileName.equals("/html/")||fileName.equals("/html"))
 				fileName = "/html/index.html";
 
-			BufferedReader in = new BufferedReader(new FileReader ((filePath+fileName)));
+			BufferedReader in = new BufferedReader(new FileReader ((fileName)));
 			
 			String temp = in.readLine();
 			while (temp!= null) {
