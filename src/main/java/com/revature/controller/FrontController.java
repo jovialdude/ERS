@@ -48,7 +48,7 @@ public class FrontController extends HttpServlet {
 			if (fileName.equals("/html/")||fileName.equals("/html"))
 				fileName = "/html/index.html";
 
-			BufferedReader in = new BufferedReader(new FileReader ((fileName)));
+			BufferedReader in = new BufferedReader(new FileReader ((filePath+fileName)));
 			
 			String temp = in.readLine();
 			while (temp!= null) {
